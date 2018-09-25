@@ -1,0 +1,13 @@
+
+
+h1{
+	font-size:60px; 
+	color:red; 
+	font-family:verdana; 
+	text-align:center;
+}
+
+p{
+	font-size:40px;
+}
+
